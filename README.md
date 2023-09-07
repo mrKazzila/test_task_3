@@ -64,4 +64,5 @@ To clone and run this project, you'll need:
 
 
 ## Additional material
-[test-assignment](readme/Тестовое задание.pdf)
+
+[test-assignment](readme/test_assignment.pdf)
